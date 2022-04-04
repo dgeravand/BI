@@ -1,6 +1,6 @@
 class test:
-    pass
+    def __init__(self):
+        pass
 
 if __name__ =='__main__':
     t=test()
-    
